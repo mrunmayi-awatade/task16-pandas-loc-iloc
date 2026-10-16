@@ -1,0 +1,26 @@
+# Task 16 - Selecting Rows and Columns with loc and iloc
+
+## Overview
+This project demonstrates how to select rows and columns from a Pandas DataFrame using loc[] and iloc[].
+
+## What I Practiced
+- Creating a Pandas DataFrame
+- Selecting a single row using loc[]
+- Selecting multiple rows using loc[]
+- Selecting single and multiple columns using loc[]
+- Filtering rows using loc[]
+- Selecting rows using iloc[]
+- Selecting single and multiple columns using iloc[]
+- Selecting specific rows and columns using iloc[]
+- Comparing loc[] and iloc[]
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Outcome
+This task helped me understand how to select specific rows and columns from a DataFrame using labels and integer positions.
+
+## Files
+- `task16_pandas_loc_iloc.ipynb` - Notebook containing code examples and outputs.
